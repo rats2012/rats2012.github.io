@@ -1,0 +1,33 @@
+title: "Isaac Winston"
+description: "Electrical & Mechatronic Engineer | Software Developer | Audio Engineer"
+theme: minima
+
+# Your contact info (for SEO and footer)
+author:
+  name: "Isaac Winston"
+  email: "isaac@thewinstons.co.uk"
+
+# GitHub Pages settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation links (appears in the header)
+header_pages:
+  - about.md
+  - projects.md
+
+# Optional: social links (shows in footer with Minima theme)
+minima:
+  social_links:
+    github: your-username
+    linkedin: your-linkedin-url
+    email: isaac@thewinstons.co.uk
+
+# Permalinks: nice URLs for pages
+permalink: pretty
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
