@@ -86,25 +86,15 @@ Built a physics-based lockbox that opens only under very specific physical condi
 
 ## 🎧 Live Event Sound Engineering
 **2023 – Present**  
-Lead sound engineer for **HABSFest 2025** (1000+ attendees) and freelance A1 engineer with ALM Productions.  
-- Designed PA system layout and tuned speaker arrays.  
+Freelance A1 engineer with ALM Productions.  
+- Design PA system layouts and tuned speaker arrays.  
 - Mixed live performances under time pressure.  
 - Earned **Dante Level 1 Certification** for networked audio design.
 
-**Skills:** Dante Audio Networking, FOH Mixing, Rigging & Safety
+**Skills:** Dante Audio Networking, FOH Mixing, Rigging, Safety mangement
 
 ---
 
-## 🎭 Technical Production & Set Engineering
-**2019 – 2025**  
-Produced and engineered lighting and set designs for 5+ major school plays and events.  
-- Built automated set pieces and lighting rigs.  
-- Managed event budgets up to £15,000 (HABS MUN Conference).  
-- Responsible for SFX and lighting programming for TEDxYouth @ HABS events (2024 & 2025).
-
-**Skills:** Event Production, Electrical Safety, Project Management
-
----
 
 ## 📡 RFID Inventory Management System
 Designed and deployed a **whole-home IoT inventory system**.  
