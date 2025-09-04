@@ -16,12 +16,15 @@ header_pages:
   - about.md
   - projects.md
 
+nav:
+  - title: "CV"
+    url: "/assets/IsaacWinstonCV.pdf"
 # Optional: social links (shows in footer with Minima theme)
-minima:
-  social_links:
-    github: your-username
-    linkedin: your-linkedin-url
-    email: isaac@thewinstons.co.uk
+# minima:
+#   social_links:
+#     github: your-username
+#     linkedin: your-linkedin-url
+#     email: isaac@thewinstons.co.uk
 
 # Permalinks: nice URLs for pages
 permalink: pretty
