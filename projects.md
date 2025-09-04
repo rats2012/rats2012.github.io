@@ -1,7 +1,3 @@
-layout: page
-title: "Projects"
-permalink: /projects.md
-
 # My Projects
 
 A selection of my favourite projects, competitions, and engineering experiences.
