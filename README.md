@@ -10,9 +10,6 @@ From robotics and embedded systems to real-time audio engineering, I love to sol
 
 ---
 
-## 🔗 Quick Links
-- [📄 Download My CV](assets/IsaacWinstonCV.pdf)
-- [💻 My Projects](./projects.md)
-- [📫 Contact Me](mailto:isaac@thewinstons.co.uk)
+[📫 Contact Me](mailto:isaac@thewinstons.co.uk)
 
 ---
