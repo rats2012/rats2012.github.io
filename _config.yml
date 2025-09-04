@@ -15,10 +15,8 @@ highlighter: rouge
 header_pages:
   - about.md
   - projects.md
+  - cv.md
 
-nav:
-  - title: "CV"
-    url: "/assets/IsaacWinstonCV.pdf"
 # Optional: social links (shows in footer with Minima theme)
 # minima:
 #   social_links:
