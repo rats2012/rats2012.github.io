@@ -1,3 +1,8 @@
+---
+title: "My Projects"
+layout: default
+show_title: false
+---
 # My Projects
 
 A selection of my favourite projects, competitions, and engineering experiences.
