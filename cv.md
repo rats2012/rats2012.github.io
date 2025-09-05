@@ -43,7 +43,7 @@ A passionate software developer and hardware engineer with experience designing 
 *Summer 2024*  
 - Gained exposure to large-scale engineering projects and teamwork under pressure.
 
-**Lighting & Rigging – commercial film set **
+**Lighting & Rigging – commercial film set**
 *Summer 2023*  
 - Developed practical skills on a commercial film set, including working at height, network engineering, and teamwork.
 
