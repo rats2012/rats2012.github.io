@@ -1,4 +1,7 @@
-# CV
+---
+title: "CV"
+layout: default
+---
 
 **Email:** [isaac@thewinstons.co.uk](mailto:isaac@thewinstons.co.uk)  
 
