@@ -1,5 +1,4 @@
 ---
-title: "Home"
 layout: default
 ---
 # Hi, I'm Isaac   
