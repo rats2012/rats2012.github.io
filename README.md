@@ -11,7 +11,6 @@ From robotics and embedded systems to real-time audio engineering, I love to sol
 - Machine Learning & Computer Vision  
 
 ---
-
 [Contact Me](mailto:isaac@thewinstons.co.uk)
 
 ---
