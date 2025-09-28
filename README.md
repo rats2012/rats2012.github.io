@@ -1,3 +1,7 @@
+---
+layout: home
+title: Isaac Winston
+---
 # 👋 Hi, I'm Isaac   
 
 I'm passionate about **electronics and mechatronic engineering** with a deep love for designing and building my own hardware and software.
