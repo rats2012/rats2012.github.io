@@ -25,14 +25,14 @@ My role included designing the PA hang, setting up and managing the Dante networ
 
 ---
 
-## *The Video Store at the End of the World* (School Play)
+## *The Video Store at the End of the World*
 **Autumn 2024**  
-I helped design a fully in-the-round audio system for this production.  
+I helped design a thrust stage audio system for this production.  
 This included managing multiple wireless microphone systems, designing a Dante-based audio network, and ensuring clear, consistent coverage for a large cast.
 
 **Highlights:**  
-- Designed a robust Dante network for mixing and routing between multiple locations  
+- Designed a robust Dante network for mixing and routing between multiple stageboxes and amp racks  
 - Coordinated wireless mics for a large musical cast  
-- Designed speaker placement to work with a moving set for immersive coverage  
-
+- Designed speaker placement to work with thrust seating, for an immersive soundstage.
+- 
 ---
