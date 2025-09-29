@@ -16,6 +16,7 @@ header_pages:
   - about.md
   - projects.md
   - cv.md
+  - prod_engineeering.md
 
 # Optional: social links (shows in footer with Minima theme)
 # minima:
